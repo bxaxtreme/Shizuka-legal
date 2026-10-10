@@ -1,0 +1,82 @@
+
+
+ Privacy Policy – Shizuka !!
+*Last updated: 10/10/2026
+
+ 1. Introduction
+- This policy explains what data Shizuka !! collects, how it is used, and how it is protected.
+- By using the bot, you agree to this policy.
+
+ 2. Data We Collect
+- User ID, username and avatar
+- Server (guild) ID, name, channel IDs and role IDs
+- Commands used and their arguments
+- Server settings (prefix, channels, roles, etc.)
+- Feature data such as levels/XP, economy balances, warnings, reminders and giveaways
+- Moderation records (bans, kicks, mutes, warnings)
+
+ 3. Message Tracking
+- When enabled, the bot tracks message counts, message IDs, channel IDs and timestamps.
+- In some cases, message content is stored for edit/delete logs.
+- Used for statistics, leaderboards, moderation and server logs.
+- Data is kept only as long as needed for these features.
+
+ 4. Invite Tracking
+- The bot records which invite a member used to join.
+- Stored data includes the inviter's user ID, invite counts and join/leave records.
+- Used for invite statistics, leaderboards and inviter rewards.
+
+ 5. Ticket System
+- The bot stores the ticket ID, channel ID, user ID, category/subject and timestamps.
+- Staff members who handled the ticket are also recorded.
+- If transcripts are enabled, the full ticket conversation is saved.
+- Transcripts may be sent to the server's staff or a log channel.
+
+ 6. Welcome System
+- The bot stores welcome/leave settings (channel, message, embed, autoroles).
+- It uses the new member's username, ID, avatar and join date to send welcome messages and assign roles.
+- No extra member data is stored beyond what these features need.
+
+ 7. How We Use Data
+
+- To run and provide the bot's features
+- For moderation and server security
+- To fix bugs and improve performance
+- To prevent spam and abuse
+
+ 8. Data Sharing
+- We do not sell your data.
+- We do not share data with third parties, except when required by law or by Discord's official request.
+
+ 9. Third-Party Services
+- The bot uses the Discord API and hosting/database providers (e.g. [MongoDB / VPS provider]).
+- Their own privacy policies apply.
+
+10. Data Storage and Security
+- Data is stored in a secured database.
+- Only authorized developers can access it.
+- No system is completely secure, so we cannot guarantee absolute security.
+
+ 11. Data Retention
+- Server data is kept while the bot is in the server.
+- Data is deleted [30] days after the bot is removed from a server.
+- Message logs and ticket transcripts are deleted after [X] days.
+
+ 12. Data Deletion
+- Users and server owners can request data deletion via [email / support server].
+- Requests are processed within [7] days.
+
+ 13. User Rights
+- You can request access to your data.
+- You can request correction of your data.
+- You can request deletion of your data.
+
+ 14. Changes to This Policy
+- We may update this policy from time to time.
+- Major changes will be announced in the support server.
+
+ 15. Contact
+- Support server: 
+
+
+ 
